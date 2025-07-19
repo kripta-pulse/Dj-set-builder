@@ -1,0 +1,86 @@
+{
+  "Festa": [
+    {
+      "title": "Midnight City",
+      "artist": "M83",
+      "link": "https://open.spotify.com/track/1",
+      "bpm": 120
+    },
+    {
+      "title": "Music Sounds Better With You",
+      "artist": "Stardust",
+      "link": "https://open.spotify.com/track/2",
+      "bpm": 124
+    }
+  ],
+  "Treino": [
+    {
+      "title": "Power",
+      "artist": "Kanye West",
+      "link": "https://open.spotify.com/track/3",
+      "bpm": 130
+    },
+    {
+      "title": "Titanium",
+      "artist": "David Guetta",
+      "link": "https://open.spotify.com/track/4",
+      "bpm": 128
+    }
+  ],
+  "Relaxar": [
+    {
+      "title": "Sunset Lover",
+      "artist": "Petit Biscuit",
+      "link": "https://open.spotify.com/track/5",
+      "bpm": 90
+    },
+    {
+      "title": "Weightless",
+      "artist": "Marconi Union",
+      "link": "https://open.spotify.com/track/6",
+      "bpm": 60
+    }
+  ],
+  "Jantar": [
+    {
+      "title": "Come Away With Me",
+      "artist": "Norah Jones",
+      "link": "https://open.spotify.com/track/7",
+      "bpm": 75
+    },
+    {
+      "title": "Just the Two of Us",
+      "artist": "Grover Washington Jr.",
+      "link": "https://open.spotify.com/track/8",
+      "bpm": 92
+    }
+  ],
+  "Intimidade": [
+    {
+      "title": "Wicked Game",
+      "artist": "Chris Isaak",
+      "link": "https://open.spotify.com/track/9",
+      "bpm": 70
+    },
+    {
+      "title": "Earned It",
+      "artist": "The Weeknd",
+      "link": "https://open.spotify.com/track/10",
+      "bpm": 67
+    }
+  ],
+  "Sexo": [
+    {
+      "title": "Skin",
+      "artist": "Rihanna",
+      "link": "https://open.spotify.com/track/11",
+      "bpm": 65
+    },
+    {
+      "title": "Rocket",
+      "artist": "Beyonc\u00e9",
+      "link": "https://open.spotify.com/track/12",
+      "bpm": 68
+    }
+  ]
+}
